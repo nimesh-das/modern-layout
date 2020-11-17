@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" type="text/css" href="jquery.fullPage.css" />
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.5/fullpage.js"></script>
+
+<div id="navbar"> 
+	<ul class="nav">
+		<li> <a href="1971.html"> 1971 </a> </li>
+		<li> <a href="2009.html"> 2009 </a> </li>
+		<li> <a href="1950.html"> 1950 </a> </li>
+		<li> <a href="1982.html"> 1982 </a> </li>
+	</ul>
+</div>
+
+</head>
+
+<body>
+
+    <main data-router-wrapper>
+      <section data-router-view="home" class="home">
+        <div class="home-content">
+          	<div class="wrapper">
+				<div class="section" id="section1" data-anchor="ex1"> 
+					<h1> <a href="1971.html"> 1971 </a> </h1>
+				</div> 
+				<div class="section" id="section2" data-anchor="ex2"> 
+					<h1> <a href="2009.html"> 2009 </a> </h1>
+				</div>
+				<div class="section" id="section3" data-anchor="ex3">  
+					<h1> <a href="1950.html"> 1950 </a> </h1>
+				</div>
+				<div class="section" id="section4" data-anchor="ex4"> 
+					<h1> <a href="1982.html"> 1982 </a> </h1>
+				</div>
+			</div>
+        </div>
+      </section>
+    </main>
+
+<script type="text/javascript">
+ $(document).ready(function(){
+ 	$(".wrapper").fullpage({
+ 		anchors:['ex1', 'ex2', 'ex3', 'ex4']
+ 	});
+ });
+</script>
+<script type="module" src="./index.js"></script>
+
+</body>
+
+</html>
