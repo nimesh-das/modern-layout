@@ -189,7 +189,7 @@ var reloadCSS = require('_css_loader');
 
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
-},{"./images/car-image1.jpg":[["car-image1.2ce6b9c0.jpg","images/car-image1.jpg"],"images/car-image1.jpg"],"./images/car-image2.jpg":[["car-image2.28ac8b23.jpg","images/car-image2.jpg"],"images/car-image2.jpg"],"./images/car-image3.jpg":[["car-image3.ae0989ca.jpg","images/car-image3.jpg"],"images/car-image3.jpg"],"./images/car-image4.jpeg":[["car-image4.296f3e94.jpeg","images/car-image4.jpeg"],"images/car-image4.jpeg"],"_css_loader":"../../../../../../../usr/local/lib/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../../../../../../../usr/local/lib/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+},{"./images/car-image1.jpg":[["car-image1.2ce6b9c0.jpg","images/car-image1.jpg"],"images/car-image1.jpg"],"./images/car-image2.jpg":[["car-image2.28ac8b23.jpg","images/car-image2.jpg"],"images/car-image2.jpg"],"./images/car-image3.jpg":[["car-image3.ae0989ca.jpg","images/car-image3.jpg"],"images/car-image3.jpg"],"./images/car-image4.jpg":[["car-image4.566acb3d.jpg","images/car-image4.jpg"],"images/car-image4.jpg"],"_css_loader":"../../../../../../../usr/local/lib/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../../../../../../../usr/local/lib/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
@@ -217,7 +217,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "51424" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "52980" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
