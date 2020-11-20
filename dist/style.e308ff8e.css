@@ -95,19 +95,19 @@ h2 {
 }
 
 #section1 {
-	background-image: url("/car-image1.2ce6b9c0.jpg");
+	background-image: url("dist/car-image1.2ce6b9c0.jpg");
 }
 
 #section2 {
-	background-image: url("/car-image2.28ac8b23.jpg");
+	background-image: url("dist/car-image2.28ac8b23.jpg");
 }
 
 #section3 {
-	background-image: url("/car-image3.ae0989ca.jpg");
+	background-image: url("dist/car-image3.ae0989ca.jpg");
 }
 
 #section4 {
-	background-image: url("/car-image4.566acb3d.jpg");
+	background-image: url("dist/car-image4.566acb3d.jpg");
 }
 
 a { text-decoration: none; color:white; }
@@ -191,4 +191,4 @@ a:hover, a:active { text-decoration: none; }
 
 
 
-/*# sourceMappingURL=/style.e308ff8e.css.map */
+/*# sourceMappingURL=dist/style.e308ff8e.css.map */

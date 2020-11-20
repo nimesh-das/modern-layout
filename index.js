@@ -16,4 +16,4 @@ const H = new Highway.Core({
 	}
 });
 
-console.log("Hi");
+console.log("Hello world")
