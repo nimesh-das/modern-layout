@@ -1,0 +1,122 @@
+{
+  "projectName": "highway",
+  "projectOwner": "Dogstudio",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "gitmoji",
+  "contributors": [
+    {
+      "login": "Anthodpnt",
+      "name": "Anthony Du Pont",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6245705?v=4",
+      "profile": "https://twitter.com/Anthodpnt",
+      "contributions": [
+        "question",
+        "code",
+        "doc",
+        "ideas",
+        "maintenance",
+        "projectManagement",
+        "review"
+      ]
+    },
+    {
+      "login": "ThaoD5",
+      "name": "ThaoD5",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/10233610?v=4",
+      "profile": "https://github.com/ThaoD5",
+      "contributions": [
+        "question",
+        "code",
+        "doc",
+        "ideas",
+        "maintenance",
+        "review"
+      ]
+    },
+    {
+      "login": "joshgkirk",
+      "name": "Josh Kirk",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/28448851?v=4",
+      "profile": "https://twitter.com/joshgkirk",
+      "contributions": [
+        "code",
+        "doc",
+        "ideas",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "mikehwagz",
+      "name": "Mike Wagz",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/12376535?v=4",
+      "profile": "https://selfaware.studio",
+      "contributions": [
+        "doc",
+        "infra"
+      ]
+    },
+    {
+      "login": "Suyash-Purwar",
+      "name": "Suyash Purwar",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/33785844?v=4",
+      "profile": "https://twitter.com/suyashpurwar06",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "davidelanfranchi",
+      "name": "Davide Lanfranchi",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13507672?v=4",
+      "profile": "http://davidelanfranchi.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "fabioquarantini",
+      "name": "Fabio Quarantini",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/425733?v=4",
+      "profile": "http://www.fabioquarantini.com",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "quentinneyraud",
+      "name": "Quentin Neyraud",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/9378568?v=4",
+      "profile": "http://www.quentinneyraud.fr",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "zhw2590582",
+      "name": "Harvey Zack",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5907357?v=4",
+      "profile": "https://sleepy.im",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "deJong",
+      "name": "Stijn de Jong",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1932851?v=4",
+      "profile": "https://stuur.men",
+      "contributions": [
+        "code",
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true
+}

@@ -1,0 +1,10 @@
+# JUNK FILES
+.cache
+.DS_Store
+
+# Cache
+.jekyll-cache
+
+# FRONT FOLDERS
+node_modules/
+_site/
