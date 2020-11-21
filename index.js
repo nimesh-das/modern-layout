@@ -1,6 +1,5 @@
-import jquery from "jquery";
-window.$ = window.jQuery = jquery;
-import $ from "jquery";
+import jquery from 'jquery';
+window.jquery = window.$ = $;
 import { fullpage } from './jquery.fullPage.js';
 import './jquery.fullPage.css';
 import Highway from '@dogstudio/highway';
